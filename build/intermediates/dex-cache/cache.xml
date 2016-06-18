@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_19db44c60fac5913ec56db933c0eb0740198efec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_c15cb77d1818ea82554eb0b245961d175b988ce5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_2233cd1b2f884afd2d4431187ea64611eafbb50f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_58cc1fc2c64c00600b46b13775f9ea76e0491153\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_cfacc3a47a6b98a2581d03ee9c9c30499c17a6c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_d1e7d942968b62ce2460448494b7bfd9dae9cc79\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_debe93c1dfa1a778b24a9857c5de3a397480497d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_fb2f14e550e1e1ba3718976896e86ab2781678a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4fe0d43313127d72cf219575ba6567bcbc7a474d">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3c8b32c9bf3baa6d6fd3b81724d110d72ca8764b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_84aa1270ddc7c73ddce7d87b96c9c9a25c153360\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_96e5072d76f8fbde3c1294034dbaa20dcf2caefb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_f69b5928514b47dbfe0b1cf71bece0eb8573dbbc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3757a23d4ee03ac1fddd43fbdd44d79cee0e8bd4">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_192460654c7a3d97ae47a431eda48d69a4ca73da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_2473edab909e19f67c511b4f2e4b0ccb4cab1f4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_a066c49f249b40913db6120ac70cf1333253be43\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_67fff4ac2bd4b20e2909a264e4d217885efec726\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Filip\Prog\KaffeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_42a090a310eb27ac5c71609ca46b0297cb47141b\classes.dex" />
+    </item>
+
+</items>
